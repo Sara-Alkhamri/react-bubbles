@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
-import BubblePage from './components/BubblePage';
+import BubblePage from './components/BubblePage'
 
 import Login from "./components/Login";
 import "./styles.scss";
